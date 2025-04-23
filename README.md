@@ -6,7 +6,7 @@ This repository will serve as a central hub for all code, environments, and mode
 
 ## Contents
 ### 🗃️ `Datasets/`
-- Datasets of molecules used to develop the virtual screening protocols and ML models be made available via [Zenodo](https://zenodo.org/) (link to be provided once published).
+- Datasets of molecules used to develop the virtual screening protocols and ML models be made available via [Zenodo](https://zenodo.org/).
 
 ### 📊 `Analysis/`
 - Contains Jupyter notebooks detailing various analysis pipelines.
